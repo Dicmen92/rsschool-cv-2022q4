@@ -220,3 +220,7 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
 }
+
+.form {
+  display: none;
+}
